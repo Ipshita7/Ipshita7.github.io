@@ -1,3 +1,7 @@
+_site/
+_freeze/
+.quarto/
+
 # History files
 .Rhistory
 .Rapp.history
