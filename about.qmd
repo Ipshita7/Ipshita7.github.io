@@ -1,0 +1,9 @@
+---
+title: "About"
+format: html
+editor: visual
+---
+
+### What is code club
+
+Part of SORTEE. A session once a month with beginner friendly coding. This one is about using quarto to make a website hosted on github.
